@@ -8,6 +8,7 @@
         <element label="name" max_length="40" name="name" type="string"/>
         <element label="this should be here after" max_length="40" name="test" type="string"/>
         <element label="third field" max_length="40" name="test2" type="string"/>
+        <element label="fourth field" max_length="40" name="test3" type="string"/>
         <index name="index">
             <element name="choices"/>
         </index>

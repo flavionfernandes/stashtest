@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="test" table="x_tori2_blah_blahblah">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="test3" table="x_tori2_blah_blahblah">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
@@ -15,7 +15,7 @@
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>this should be here after</column_label>
+        <column_label>fourth field</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -28,7 +28,7 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>test</element>
+        <element>test3</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
@@ -53,16 +53,16 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-10-16 12:28:29</sys_created_on>
-        <sys_id>697146bfdb01230046eedc50cf9619fd</sys_id>
+        <sys_created_on>2018-10-16 12:42:48</sys_created_on>
+        <sys_id>ac9142b3db01230046eedc50cf9619e6</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>this should be here after</sys_name>
+        <sys_name>fourth field</sys_name>
         <sys_package display_value="Blah" source="x_tori2_blah">e8f9e081db14934052f59c27db9619da</sys_package>
         <sys_policy/>
         <sys_scope display_value="Blah">e8f9e081db14934052f59c27db9619da</sys_scope>
-        <sys_update_name>sys_dictionary_x_tori2_blah_blahblah_test</sys_update_name>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2018-10-16 12:41:50</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_tori2_blah_blahblah_test3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-16 12:42:48</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
