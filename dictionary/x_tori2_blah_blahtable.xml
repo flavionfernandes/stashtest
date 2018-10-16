@@ -6,6 +6,7 @@
         <element label="phone" max_length="40" name="phone" type="phone_number_e164"/>
         <element label="start time" max_length="40" name="start_time" type="glide_time"/>
         <element label="sixth field" max_length="40" name="test6" type="string"/>
+        <element label="seventh field" max_length="40" name="test7" type="string"/>
         <element label="Whatever" max_length="20" name="whatever" type="string"/>
     </element>
 </database>
