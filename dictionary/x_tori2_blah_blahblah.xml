@@ -6,6 +6,7 @@
         </element>
         <element label="currency" max_length="20" name="currency" type="currency"/>
         <element label="name" max_length="40" name="name" type="string"/>
+        <element label="this should be here after" max_length="40" name="test" type="string"/>
         <index name="index">
             <element name="choices"/>
         </index>
