@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_script_fix">
+    <sys_script_fix action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <before>false</before>
+        <description/>
+        <flush_cache>false</flush_cache>
+        <name>testing time</name>
+        <run_once>true</run_once>
+        <script/>
+        <sys_class_name>sys_script_fix</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-21 09:27:23</sys_created_on>
+        <sys_id>baeb34f5db88230046eedc50cf961911</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>testing time</sys_name>
+        <sys_package display_value="Blah" source="x_tori2_blah">e8f9e081db14934052f59c27db9619da</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Blah">e8f9e081db14934052f59c27db9619da</sys_scope>
+        <sys_update_name>sys_script_fix_baeb34f5db88230046eedc50cf961911</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-08-21 09:27:23</sys_updated_on>
+        <unloadable>false</unloadable>
+    </sys_script_fix>
+</record_update>

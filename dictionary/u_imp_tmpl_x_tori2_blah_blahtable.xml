@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="Imp Tmpl X Tori2 Blah Blahtable" max_length="40" name="u_imp_tmpl_x_tori2_blah_blahtable" type="collection">
+        <element label="currency" max_length="40" name="u_currency" type="integer"/>
+        <element attributes="import_attribute_name=test,edge_encryption_enabled=true" label="test" max_length="40" name="u_test" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="whatever" max_length="40" name="u_whatever" type="string"/>
+        <element attributes="import_attribute_name=£4.00" label="£4.00" max_length="40" name="u__4_00" type="integer"/>
+    </element>
+</database>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="BlahTable" max_length="40" name="x_tori2_blah_blahtable" type="collection">
+        <element label="Currency" max_length="20" name="currency" type="currency"/>
+        <element label="next action time" max_length="40" name="next_action_time" type="glide_date_time"/>
+        <element label="phone" max_length="40" name="phone" type="phone_number_e164"/>
+        <element label="start time" max_length="40" name="start_time" type="glide_time"/>
+        <element label="Whatever" max_length="20" name="whatever" type="string"/>
+    </element>
+</database>

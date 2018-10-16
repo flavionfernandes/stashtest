@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="Imp Tmpl X Tori2 Blah Blahblah" max_length="40" name="u_imp_tmpl_x_tori2_blah_blahblah" type="collection">
+        <element attributes="import_attribute_name=currency" label="currency" max_length="40" name="u_currency" type="integer"/>
+        <element attributes="import_attribute_name=symbol,edge_encryption_enabled=true" label="symbol" max_length="40" name="u_symbol" type="string"/>
+        <element attributes="import_attribute_name=whatever" label="whatever" max_length="40" name="u_whatever" type="integer"/>
+    </element>
+</database>

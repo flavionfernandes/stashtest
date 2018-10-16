@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="next_action_time" label="next action time" language="en" table="x_tori2_blah_blahtable">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>next_action_time</element>
+            <help/>
+            <hint/>
+            <label>next action time</label>
+            <language>en</language>
+            <name>x_tori2_blah_blahtable</name>
+            <plural>next action times</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-10 12:53:59</sys_created_on>
+            <sys_id>dd0b20d8dba4a30046eedc50cf96193b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>next action time</sys_name>
+            <sys_package display_value="Blah" source="x_tori2_blah">e8f9e081db14934052f59c27db9619da</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Blah">e8f9e081db14934052f59c27db9619da</sys_scope>
+            <sys_update_name>sys_documentation_x_tori2_blah_blahtable_next_action_time_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-10 12:53:59</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

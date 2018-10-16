@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="blahblah" max_length="40" name="x_tori2_blah_blahblah" type="collection">
+        <element choice="1" choice_field="time_zone" choice_table="sys_user" label="Choices" max_length="32" name="choices" type="choice">
+            <choice/>
+        </element>
+        <element label="currency" max_length="20" name="currency" type="currency"/>
+        <element label="name" max_length="40" name="name" type="string"/>
+        <index name="index">
+            <element name="choices"/>
+        </index>
+    </element>
+</database>

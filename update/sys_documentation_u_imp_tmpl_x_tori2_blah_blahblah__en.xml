@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Imp Tmpl X Tori2 Blah Blahblah" language="en" table="u_imp_tmpl_x_tori2_blah_blahblah">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Imp Tmpl X Tori2 Blah Blahblah</label>
+            <language>en</language>
+            <name>u_imp_tmpl_x_tori2_blah_blahblah</name>
+            <plural>Imp Tmpl X Tori2 Blah Blahblahs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-08-21 08:27:24</sys_created_on>
+            <sys_id>5d3e68bddb48230046eedc50cf96192f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Imp Tmpl X Tori2 Blah Blahblah</sys_name>
+            <sys_package display_value="Blah" source="x_tori2_blah">e8f9e081db14934052f59c27db9619da</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Blah">e8f9e081db14934052f59c27db9619da</sys_scope>
+            <sys_update_name>sys_documentation_u_imp_tmpl_x_tori2_blah_blahblah__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-08-21 08:27:24</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
